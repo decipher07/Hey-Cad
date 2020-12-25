@@ -1,0 +1,16 @@
+.Main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+    position: fixed;
+    top: 40%;
+    left: 40%; 
+}
+
+.login {
+    display: inline;
+    margin-bottom: 20px;
+    font-size: large;
+}
